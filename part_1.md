@@ -39,7 +39,7 @@ Would create organization-specific logins (such as SAML logins). This allows the
 
 ## Limitations
 Some limitations to this solution:
--	The ArcGIS Developer subscription, Professional Plan incurs ongoing costs
+-	The ArcGIS Developer subscription, Professional Plan and the AWS Cloud Services incurs ongoing costs
 -	Configuring and managing ArcGIS Enterprise servers if very technical, would require additional training for their IT  departments
 o	The plan does include community support and technical support
 -	The cost of having cloud servers, instead of personal servers (takes up space, upfront costs, high IT experience to maintain them)
